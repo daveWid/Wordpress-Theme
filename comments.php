@@ -1,0 +1,1 @@
+<?php kohana('wordpress/comments'); ?>

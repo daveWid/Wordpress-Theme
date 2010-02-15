@@ -1,0 +1,5 @@
+# Hide hidden
+.*
+
+# Not this
+!.gitignore
